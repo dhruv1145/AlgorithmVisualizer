@@ -1,31 +1,34 @@
 {
   "files": {
     "main.css": "/Pathfinder-2.0/static/css/main.fb5fadda.chunk.css",
-    "main.js": "/Pathfinder-2.0/static/js/main.a59b76d3.chunk.js",
-    "main.js.map": "/Pathfinder-2.0/static/js/main.a59b76d3.chunk.js.map",
+    "main.js": "/Pathfinder-2.0/static/js/main.2e3b8726.chunk.js",
+    "main.js.map": "/Pathfinder-2.0/static/js/main.2e3b8726.chunk.js.map",
     "runtime-main.js": "/Pathfinder-2.0/static/js/runtime-main.71e2ca90.js",
     "runtime-main.js.map": "/Pathfinder-2.0/static/js/runtime-main.71e2ca90.js.map",
     "static/css/2.ca9beaf8.chunk.css": "/Pathfinder-2.0/static/css/2.ca9beaf8.chunk.css",
-    "static/js/2.60a12e0a.chunk.js": "/Pathfinder-2.0/static/js/2.60a12e0a.chunk.js",
-    "static/js/2.60a12e0a.chunk.js.map": "/Pathfinder-2.0/static/js/2.60a12e0a.chunk.js.map",
+    "static/js/2.73e5ea5d.chunk.js": "/Pathfinder-2.0/static/js/2.73e5ea5d.chunk.js",
+    "static/js/2.73e5ea5d.chunk.js.map": "/Pathfinder-2.0/static/js/2.73e5ea5d.chunk.js.map",
     "static/js/3.7dd7a986.chunk.js": "/Pathfinder-2.0/static/js/3.7dd7a986.chunk.js",
     "static/js/3.7dd7a986.chunk.js.map": "/Pathfinder-2.0/static/js/3.7dd7a986.chunk.js.map",
     "index.html": "/Pathfinder-2.0/index.html",
     "static/css/2.ca9beaf8.chunk.css.map": "/Pathfinder-2.0/static/css/2.ca9beaf8.chunk.css.map",
     "static/css/main.fb5fadda.chunk.css.map": "/Pathfinder-2.0/static/css/main.fb5fadda.chunk.css.map",
-    "static/js/2.60a12e0a.chunk.js.LICENSE.txt": "/Pathfinder-2.0/static/js/2.60a12e0a.chunk.js.LICENSE.txt",
+    "static/js/2.73e5ea5d.chunk.js.LICENSE.txt": "/Pathfinder-2.0/static/js/2.73e5ea5d.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/Pathfinder-2.0/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/binaryTree.6d8ce938.png": "/Pathfinder-2.0/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/Pathfinder-2.0/static/media/convexHull.2720e7cd.png",
     "static/media/graph.6e6849d5.png": "/Pathfinder-2.0/static/media/graph.6e6849d5.png",
     "static/media/primes.72a2f33f.jpg": "/Pathfinder-2.0/static/media/primes.72a2f33f.jpg",
-    "static/media/queen.602155a6.PNG": "/Pathfinder-2.0/static/media/queen.602155a6.PNG",
     "static/media/queen.a967028b.png": "/Pathfinder-2.0/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/Pathfinder-2.0/static/media/queen.b2332ba3.PNG",
     "static/media/index.css": "/Pathfinder-2.0/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
     "static/media/sort.117e08fc.png": "/Pathfinder-2.0/static/media/sort.117e08fc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.71e2ca90.js",
     "static/css/2.ca9beaf8.chunk.css",
-    "static/js/2.60a12e0a.chunk.js",
+    "static/js/2.73e5ea5d.chunk.js",
     "static/css/main.fb5fadda.chunk.css",
-    "static/js/main.a59b76d3.chunk.js"
+    "static/js/main.2e3b8726.chunk.js"
   ]
 }
