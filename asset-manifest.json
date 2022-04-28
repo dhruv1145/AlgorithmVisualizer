@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/AlgorithmVisualizer/static/css/main.fa026273.chunk.css",
-    "main.js": "/AlgorithmVisualizer/static/js/main.ac3551ba.chunk.js",
-    "main.js.map": "/AlgorithmVisualizer/static/js/main.ac3551ba.chunk.js.map",
+    "main.js": "/AlgorithmVisualizer/static/js/main.5f728924.chunk.js",
+    "main.js.map": "/AlgorithmVisualizer/static/js/main.5f728924.chunk.js.map",
     "runtime-main.js": "/AlgorithmVisualizer/static/js/runtime-main.bd8b9f90.js",
     "runtime-main.js.map": "/AlgorithmVisualizer/static/js/runtime-main.bd8b9f90.js.map",
     "static/css/2.9a4d9450.chunk.css": "/AlgorithmVisualizer/static/css/2.9a4d9450.chunk.css",
-    "static/js/2.e2805420.chunk.js": "/AlgorithmVisualizer/static/js/2.e2805420.chunk.js",
-    "static/js/2.e2805420.chunk.js.map": "/AlgorithmVisualizer/static/js/2.e2805420.chunk.js.map",
+    "static/js/2.562b4ecb.chunk.js": "/AlgorithmVisualizer/static/js/2.562b4ecb.chunk.js",
+    "static/js/2.562b4ecb.chunk.js.map": "/AlgorithmVisualizer/static/js/2.562b4ecb.chunk.js.map",
     "static/js/3.ff0c580e.chunk.js": "/AlgorithmVisualizer/static/js/3.ff0c580e.chunk.js",
     "static/js/3.ff0c580e.chunk.js.map": "/AlgorithmVisualizer/static/js/3.ff0c580e.chunk.js.map",
     "index.html": "/AlgorithmVisualizer/index.html",
     "static/css/2.9a4d9450.chunk.css.map": "/AlgorithmVisualizer/static/css/2.9a4d9450.chunk.css.map",
     "static/css/main.fa026273.chunk.css.map": "/AlgorithmVisualizer/static/css/main.fa026273.chunk.css.map",
-    "static/js/2.e2805420.chunk.js.LICENSE.txt": "/AlgorithmVisualizer/static/js/2.e2805420.chunk.js.LICENSE.txt",
+    "static/js/2.562b4ecb.chunk.js.LICENSE.txt": "/AlgorithmVisualizer/static/js/2.562b4ecb.chunk.js.LICENSE.txt",
     "static/media/15puzzle.5f6e8f37.PNG": "/AlgorithmVisualizer/static/media/15puzzle.5f6e8f37.PNG",
     "static/media/binaryTree.6d8ce938.png": "/AlgorithmVisualizer/static/media/binaryTree.6d8ce938.png",
     "static/media/convexHull.2720e7cd.png": "/AlgorithmVisualizer/static/media/convexHull.2720e7cd.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.bd8b9f90.js",
     "static/css/2.9a4d9450.chunk.css",
-    "static/js/2.e2805420.chunk.js",
+    "static/js/2.562b4ecb.chunk.js",
     "static/css/main.fa026273.chunk.css",
-    "static/js/main.ac3551ba.chunk.js"
+    "static/js/main.5f728924.chunk.js"
   ]
 }
